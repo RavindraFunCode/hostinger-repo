@@ -95,7 +95,7 @@
 
           <!-- Copyright -->
           <div class="text-center p-4" style="background-color: rgba(0, 0, 0, 0.05);">
-            <p class="mb-2"> <a href="<?php echo base_url(); ?>">PNG Images</a> &copy; <?=date("Y")?>. All Rights Reserved</p>
+            <p class="mb-2"> <a href="<?php echo base_url(); ?>">Love2PNG Images</a> &copy; <?=date("Y")?>. All Rights Reserved</p>
           </div>
           <!-- Copyright -->
         </footer>

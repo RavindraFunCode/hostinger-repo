@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2759346348826079"
-         crossorigin="anonymous"></script>
-         
+                 
         <!-- <meta name="msvalidate.01" content="64A2D97AB500D0990AADED1927F23575" /> -->
         <!-- set the encoding of your site -->
         <meta charset="utf-8">
