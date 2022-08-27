@@ -208,7 +208,7 @@ if (!function_exists('clean_tags')) {
 if (!function_exists('getPNGImageURL')) {
     function getPNGImageURL($url)
     {
-        return "https://pngimages.in/",$url;
+        return "https://pngimages.in/".$url;
     }
 }
 
