@@ -3,7 +3,7 @@
 
 <h1>Privacy Policy for PNG Images</h1>
 
-<p>At PNG Images, accessible from https://pngimages.in/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by PNG Images and how we use it.</p>
+<p>At PNG Images, accessible from https://love2png.com/, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by PNG Images and how we use it.</p>
 
 <p>If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.</p>
 

@@ -10,7 +10,7 @@
                     <?php for ($i=0; $i < 0; $i++) { 
                         ?>
 
-                    <span class="tags-home"><a href="https://pngimages.in/welcome/query/Celebrities" class="tags-a">Celebrities <?php echo $i; ?></a></span>
+                    <span class="tags-home"><a href="https://love2png.com/welcome/query/Celebrities" class="tags-a">Celebrities <?php echo $i; ?></a></span>
                     <?php } ?>
                 </div>
                 

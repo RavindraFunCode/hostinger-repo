@@ -27,8 +27,7 @@
                                 <?php 
                                     }
                                 ?>
-                                <!-- <span class="tags-home"><a href="https://pngimages.in/welcome/query/Celebrities" class="tags-a">Celebrities 1</a></span>
-                                <span class="tags-home"><a href="https://pngimages.in/welcome/query/Celebrities" class="tags-a">Celebrities 2</a></span>-->
+                                
                             </div>
                         </div>
                     </header>

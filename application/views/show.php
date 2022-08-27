@@ -35,17 +35,7 @@
 				<div class="col-12 col-md-6">
 					<!-- prDecriptionWrap -->
 					<div class="prDecriptionWrap pl-xl-10">
-					    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2759346348826079" crossorigin="anonymous"></script>
-						<!-- display01 -->
-						<ins class="adsbygoogle"
-						     style="display:block"
-						     data-ad-client="ca-pub-2759346348826079"
-						     data-ad-slot="6220076189"
-						     data-ad-format="auto"
-						     data-full-width-responsive="true"></ins>
-						<script>
-						     (adsbygoogle = window.adsbygoogle || []).push({});
-						</script>
+					    
 				<?php
 				   $url1 = getPNGImageURL('uploads/png/'.$png['image']);
                      $img_info = getimagesize($url1);
@@ -117,17 +107,6 @@
 				
 			</div>
 		</div>
-		<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2759346348826079"
-     crossorigin="anonymous"></script>
-    <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-format="fluid"
-     data-ad-layout-key="-6t+ed+2i-1n-4w"
-     data-ad-client="ca-pub-2759346348826079"
-     data-ad-slot="9149114558"></ins>
-     <script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 	</section>
 
 	<script type="text/javascript">

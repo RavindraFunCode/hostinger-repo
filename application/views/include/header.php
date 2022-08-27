@@ -14,7 +14,7 @@
         
          
         <!-- set the page title -->
-        <title><?php echo ucwords($subtitle); //current_url()=="https://pnghacker.in/" ? "PNG Images With Transparent Background Free Download" : ($subtitle ? $subtitle : ''); ?> Transparent Background Free Download - PNGImages</title>
+        <title><?php echo ucwords($subtitle); //current_url()=="https://pnghacker.in/" ? "PNG Images With Transparent Background Free Download" : ($subtitle ? $subtitle : ''); ?> Transparent Background Free Download - Love2PNG</title>
         <link rel="canonical" href="<?php echo current_url(); ?>" />
         <link rel="icon" href="<?php echo base_url(); ?>assets/site/favicon-50x50px.png" type="image/x-icon" />
         <?php
